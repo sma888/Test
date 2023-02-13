@@ -1,0 +1,8 @@
+E:\Мои документы\Магамет\C#\Долги\CheckingTheTriangle\CheckingTheTriangle\bin\Debug\CheckingTheTriangle.exe.config
+E:\Мои документы\Магамет\C#\Долги\CheckingTheTriangle\CheckingTheTriangle\bin\Debug\CheckingTheTriangle.exe
+E:\Мои документы\Магамет\C#\Долги\CheckingTheTriangle\CheckingTheTriangle\bin\Debug\CheckingTheTriangle.pdb
+E:\Мои документы\Магамет\C#\Долги\CheckingTheTriangle\CheckingTheTriangle\obj\Debug\CheckingTheTriangle.csproj.AssemblyReference.cache
+E:\Мои документы\Магамет\C#\Долги\CheckingTheTriangle\CheckingTheTriangle\obj\Debug\CheckingTheTriangle.csproj.SuggestedBindingRedirects.cache
+E:\Мои документы\Магамет\C#\Долги\CheckingTheTriangle\CheckingTheTriangle\obj\Debug\CheckingTheTriangle.csproj.CoreCompileInputs.cache
+E:\Мои документы\Магамет\C#\Долги\CheckingTheTriangle\CheckingTheTriangle\obj\Debug\CheckingTheTriangle.exe
+E:\Мои документы\Магамет\C#\Долги\CheckingTheTriangle\CheckingTheTriangle\obj\Debug\CheckingTheTriangle.pdb
